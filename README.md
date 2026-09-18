@@ -1,6 +1,7 @@
 # Authors
 Gabriel Alpoim - 66338
 Simão Henriques - 66424
+Diogo Serra - 71088
 
 # ContactBookGit
 This is a starter kit for the first lab of the Software Engineering Course.
