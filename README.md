@@ -1,3 +1,7 @@
+# Authors
+Gabriel Alpoim - 66338
+Simão Henriques - 66424
+
 # ContactBookGit
 This is a starter kit for the first lab of the Software Engineering Course.
 Fork this project to make your own version of it.
